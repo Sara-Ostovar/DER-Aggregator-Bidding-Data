@@ -12,7 +12,7 @@ This repository contains the datasets used in the study:
 - `day_ahead_and_real_time_AS_prices.xlsx`  
   Day-ahead and real-time ancillary service price data used in the case study.
 
-- `Solar_PV_Data.xlsx`  
+- `Solar_PV_Data.csv`  
   Solar photovoltaic (PV) data used for PV generation modeling in the case study.
 
 ## Notes
