@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ostovar"
+  given-names: "Sara"
+- family-names: "Pudukkarai Srinivas"
+  given-names: "Nirupama"
+- family-names: "Khorsand"
+  given-names: "Mojdeh"
+- family-names: "Mondal"
+  given-names: "Abrez"
+- family-names: "Singhal"
+  given-names: "Nikita"
+- family-names: "Krad"
+  given-names: "Ibrahim"
+- family-names: "Saad"
+  given-names: "Ahmed"
+title: "DER-Aggregator-Bidding-Data"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-05-13
+url: "https://github.com/Sara-Ostovar/DER-Aggregator-Bidding-Data"
